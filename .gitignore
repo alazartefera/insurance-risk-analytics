@@ -1,0 +1,13 @@
+# Data
+*.csv
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Env
+.env
+venv/
